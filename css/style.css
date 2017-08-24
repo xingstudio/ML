@@ -1,0 +1,8 @@
+*{transition: all 0.3s;}
+        
+body{color: #111; text-align: center;}
+a{text-decoration: none; color: #111;}
+
+nav{margin: 20px 0;}
+nav div, .btn{display: inline; border: #111 1px solid; padding: 5px 20px; margin: 0 5px;}
+nav div:hover, nav a div.active, .btn:hover{background-color: #c8c8c8; font-weight: bolder; cursor: pointer;}
